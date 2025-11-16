@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=ammansharmma24&color=blue" alt="Visitor Count">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=242F3E&center=true&vCenter=true&width=430&lines=✋+Hi+I+am+Aman+Sharma;A+Full+Stack+Developer;✌️+Thankyou+For+Visit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=242F3E&center=true&vCenter=true&width=430&lines=✋+Hi+I+am+Aman+Sharma;A+Full+Stack+Developer;✌️+Thankyou+For+Visiting" alt="Typing SVG" />
 </p>
 <hr style="border: 0.5px solid gray;">
 <h1 align="center">🤙 About Me</h1>
